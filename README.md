@@ -1,20 +1,53 @@
-## Responsive Portfolio Website ✨
+# Sameer Senapati Portfolio
 
-Responsive Portfolio Website Using HTML, CSS and JavaScript, with a beautiful user interface. 
-Website contains: 
-- Header 
-- Home
-- About
-- Skills
-- Qualification
-- Services
-- Portfolio
-- Project in mind
-- Testimonial
-- Contact
-- Footer 
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a Machine Learning Enthusiast and Full-Stack Developer.
 
-If u liked my website and the code was useful to you, <br>
-feel free to leave a star (much appreciated) fork it and customize as you like! :)
+## 🚀 Features
+- Responsive design for all devices
+- Animated UI components
+- Portfolio section with project demos
+- Skills, qualifications, and contact form
+- Dark/light theme toggle
 
-- Inspired design by Bedimcode-Alexa design 🙌
+
+
+## 🛠️ Built With
+- HTML5 & CSS3
+- JavaScript (ES6)
+- [Swiper.js](https://swiperjs.com/) for portfolio carousel
+- [Unicons](https://iconscout.com/unicons) for icons
+
+## 📁 Project Structure
+```
+index.html
+packages/
+  css/
+    styles.css
+    swiper-bundle.min.css
+  js/
+    main.js
+    swiper-bundle.min.js
+  images/
+    ... (profile and project images)
+```
+
+## 📸 Screenshots
+![Portfolio Screenshot](./packages/images/image-1753647875616.png)
+
+## 📄 Usage
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/SameerSenapati17/Portfolio-WebsiteM.git
+   ```
+2. Open `index.html` in your browser.
+
+## ✏️ Customization
+- Update your information, images, and project details in `index.html` and the `images/` folder.
+- Modify styles in `packages/css/styles.css` as needed.
+
+## 📬 Contact
+- **Email:** sameersenapati1709@gmail.com
+- **LinkedIn:** [Sameer Senapati](https://www.linkedin.com/in/sameer-senapati-759b0528a/)
+
+---
+© Sameer Senapati. All rights reserved.
